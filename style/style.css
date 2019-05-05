@@ -234,6 +234,11 @@ p {
   margin-right: 1px;
 }
 
+.icon-image {
+  width: 50%;
+  height: 50%;
+}
+
 .social-icon:hover {
   opacity: 0.7;
 }
@@ -577,6 +582,8 @@ p {
 
 .social-icon-footer {
   margin-left: 18px;
+  width: 25px;
+  height: 25px;
 }
 
 .social-icon-footer:hover {
